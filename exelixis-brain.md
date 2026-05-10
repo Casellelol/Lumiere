@@ -4,6 +4,36 @@
 
 ---
 
+## [2026-05-10 08:00] — Etsy Intelligence
+
+**Trending quotes to add:**
+- "I Am Haunted by Waters" — Norman Maclean (literary, moody, misty lake; dark minimal on linen-textured bg)
+- "Let the Soft Animal of Your Body Love What It Loves" — Mary Oliver (nature, self-compassion, boho crossover)
+- "And So the Adventure Begins" (summer/travel launch moment, extremely high search conversion in May–June)
+- "You Only Fail When You Stop Trying" (motivational bold type, new listing gap spotted in search vs. demand)
+- "Slow Down, You're Home" (coastal grandmother + quiet luxury crossover — porch/summer living angle)
+- "Under This Sky" / "The Night We Met" (star map caption variants, still breakout hot with personalization layer)
+- "More Sun, More Life" (summer seasonal, Patina Blue palette, living room / porch art target)
+- "Grow Through What You Go Through" (botanical + motivational crossover, earthy green palette, high conversion)
+
+**Rising aesthetics:**
+- **Hand-Drawn Imperfect** — NEW breakout Etsy signal: hand-drawn, playful, intentionally imperfect graphic designs with cursive/whimsical fonts are outperforming polished digital art in 2026; feels elevated but approachable; apply to quote prints and botanicals immediately
+- **Circus-Core / Maximalist Vintage** — Pinterest searches for circus-inspired interiors +130%; bold vintage typography, banner-style lettering, jewel tones (crimson, gold, deep teal); statement singles for eclectic walls; low current Etsy supply vs. surging demand
+- **Mediterranean Vintage** — coastal village scenes, antique botanical prints, terracotta + faded indigo + aged cream palette; consistent strong seller in living room category; print sets with 3–4 coordinating pieces performing well
+- **Summer Outdoor Living** — May is the peak pre-summer buying window; "al fresco", "porch decor", "garden art", "outdoor wall decor printable" search terms spiking; seasonal prints have a 4–6 week conversion window starting NOW
+- **Patina Blue Applications** — Etsy's official 2026 Color of Year; inspired by blue-green patina on copper/bronze; "blue copper" searches up 3× YoY; pairs with warm metals and aged textures; apply as primary colorway to abstract, quote, and botanical prints; icy + glacial blue variants also trending in listings
+- **Washed Linen Texture (Etsy Texture of Year)** — "after years of hyper-polished spaces, shift toward natural tactile comfort"; apply as background treatment to any new design; especially powerful with Quiet Luxury and Mediterranean Vintage styles
+
+**Top Etsy tags:** printable wall art, digital download instant, summer wall art, porch decor print, coastal wall art, mediterranean art print, patina blue wall art, blue copper art, circus wall art, maximalist print, hand drawn wall art, whimsical wall art, washed linen print, gallery wall set, botanical quote print, star map print, personalized wall art, motivational quote print, literary art print, outdoor wall decor
+
+**Price intelligence:** abstract art prints $10–$35 (90k+ monthly searches); quote prints $5–$18 fastest-converting; botanical prints $8–$25; gallery wall sets 3–5 prints $12–$28 (highest AOV); summer seasonal singles sweet-spot $6–$10; circus/maximalist statement singles $8–$20; Mediterranean 4-print sets $14–$24; personalized star map $12–$30 (highest perceived value); overall printable wall art 400k+ monthly searches, 90–95% margins
+
+**Actionable for Design Generator:** (1) Create a "Hand-Drawn Summer" quote series — imperfect cursive lettering on Patina Blue or washed linen background; quotes: "More Sun, More Life", "Slow Down, You're Home"; size for 4×6, 5×7, 8×10 for versatile gallery use. (2) Build a Circus-Core statement print — bold vintage banner typography, jewel-tone palette (crimson + gold), "The Greatest Show Is Living Well" style text; 130% Pinterest growth = early-mover window NOW. (3) Mediterranean Vintage 4-print coordinating set: terracotta + faded indigo + aged cream, antique botanical + coastal village motifs; price bundle at $16–$22. (4) Apply Patina Blue (blue-green, pairs with warm metals) as a colorway variant to ALL existing abstract and botanical designs — Etsy algorithm is surfacing Patina Blue listings preferentially. (5) Literary quote print: dark moody linen bg + "I Am Haunted by Waters" in refined serif — targets the emerging literary art print niche, low supply, growing demand.
+
+**Actionable for Etsy Lister:** Add "summer wall art" + "porch decor print" + "outdoor wall decor" to ALL listings immediately — peak pre-summer buying window is active NOW through mid-June. Lead title formula for summer prints: "Summer Printable Wall Art [Quote] Digital Download Instant | Porch Decor | Coastal Print". Tag circus listings with "circus wall art" + "maximalist print" + "eclectic wall art" — 130% Pinterest surge not yet reflected in Etsy tag competition. Use "blue copper" as a tag on Patina Blue designs — 3× YoY search growth and low competition. For literary prints, lead with author name in title (e.g., "Mary Oliver Quote Print" / "Norman Maclean Wall Art") — literary buyers search by author, high intent. Bundle Mediterranean 4-packs with "gallery wall set" + "mediterranean art print" + "coastal wall art" in title + all 13 tags filled.
+
+---
+
 ## [2026-05-08 00:00] — Etsy Intelligence
 
 **Trending quotes to add:**
