@@ -89,3 +89,32 @@
 **Actionable for Etsy Lister:** Tag all bright/colorful listings with "dopamine decor" and "dopamine wall art" immediately — these are breakout tags. For new Afrohemian listings, lead title with "Afrohemian Wall Art" + "African Boho Print" + "Digital Download Instant". For dorm-targeted prints, add "dorm room decor" + "college wall art" + "funky wall art" to tag stack. New title formula for dopamine sets: "Dopamine Decor Gallery Wall Set [N] Prints Colorful Maximalist Printable Wall Art Digital Download Instant". Bundle pricing: offer 3-print sets at $9–$12, 5–6 print sets at $14–$22 to capture higher AOV from the gallery-wall buyer.
 
 ---
+
+## [2026-05-22 12:00] — Etsy Intelligence
+
+**Trending quotes to add:**
+- "Rise and Shine" (motivational minimal — new live listing format spotted, clean horizontal layout, mass appeal)
+- "Make A Difference" (Jane Goodall attribution angle — literary + activism crossover, high review counts)
+- "Wander Often, Wonder Always" (travel-meets-exploration, ties into travel map print trend)
+- "The World Is Your Canvas" (meta art quote, gallery wall collector buyer, gallery-wall aesthetic hook)
+- "Collect Moments, Not Things" (lifestyle minimalism, travel/adventure niche, high impulse conversion)
+- "Every Room Tells A Story" (targets gallery wall builder buying intent — "Everyday Exhibits" trend hook)
+- "Come Home to Yourself" (Quiet Luxury / self-care crossover, washed linen background ideal)
+- Custom lyric / custom quote prints with buyer-supplied text (breakout format: top conversion, zero design risk)
+
+**Rising aesthetics:**
+- **Everyday Exhibits / Gallery Wall Collector** — NEW Etsy-named macro trend: wall art decor searches +110%, gallery prints +80% YoY; buyers are curating gallery walls as personal storytelling, mixing nostalgia + pop culture + statement pieces; drives multi-print set purchases; design for coordinating sets of 3–5 not singles
+- **Woodland Whimsy** — deer prints + fairytale motifs emerging as a distinct sub-aesthetic from general Mystic Outlands; soft, delicate, storybook feel; Pinterest "woodland decor" searches accelerating Spring 2026; earthy greens + warm cream; underserved on Etsy vs. demand signal
+- **Personalized Portraits / Custom Art** — digital portrait style prints performing strongly as a premium digital product; $18–$45 AOV; also works as a "portrait style template" product
+- **Travel Map Prints** — personal-significance angle (hometown, first trip, proposal location); high perceived value; search volume growing in Q2 2026; pairs with "Collect Moments" quote angle
+- **AI-Generated Art as a Category** — Etsy buyers now actively searching "AI art print" as a style label; unique AI-generated designs outperforming generic stock-art styles; authenticity signals in listing description correlate with higher conversion
+
+**Top Etsy tags:** gallery wall set, gallery wall printable, everyday exhibits art, woodland wall art, deer print art, fairytale wall decor, travel map print, personalized wall art, custom quote print, custom lyric print, abstract wall art, abstract art print, minimalist quote print, botanical wall art, digital portrait print, AI art print, instant download art, printable wall art set, motivational wall art, wander art print
+
+**Price intelligence:** abstract art prints lead volume at $10–$35 (90,000+ monthly searches); minimalist quote prints fastest-converting impulse buy at $5–$18 (50,000+ monthly searches); botanical prints $8–$25 (40,000+ monthly searches); gallery wall sets (3–5 prints) generate highest AOV at $12–$28; custom/personalized prints command premium at $18–$45; travel maps $12–$30 (high perceived value); overall printable wall art 400,000+ monthly searches, 90–95% margins; sweet spot for new listings: singles $6–$12, sets $14–$24
+
+**Actionable for Design Generator:** (1) Build a "Everyday Exhibits" coordinating gallery wall set (5 prints): mix botanical + quote + abstract in a unified Patina Blue + warm cream palette — targets the +110% gallery print search surge with one multi-product listing. (2) Woodland Whimsy series: deer silhouette + delicate botanical border + fairytale quote ("Come Home to Yourself") in earthy green + warm cream — early-mover gap vs. Pinterest demand. (3) Travel map print template: clean minimal location pin on muted parchment background + "Collect Moments, Not Things" caption variant — personalizable, high perceived value, $12–$30 price range. (4) Custom quote print template: clean Quiet Luxury layout (washed linen bg + refined serif + centered alignment) designed to accept any buyer-supplied text — zero design risk, instant bestseller format. (5) Motivational "Rise and Shine" print: horizontal layout, bold modern sans-serif, warm sunrise gradient — gap in search results vs. demand volume.
+
+**Actionable for Etsy Lister:** Lead gallery wall set titles with "Gallery Wall Set [N] Prints" + aesthetic label + "Digital Download Instant" — "gallery wall set" is +80% YoY search; fill all 13 tags for these listings. Add "gallery wall printable" + "everyday exhibits art" to ALL multi-print listings immediately. For travel/map prints use title formula: "[City/Location] Travel Print Wall Art Printable | Personalized Map Art | Digital Download". Tag custom quote listings with "custom quote print" + "custom lyric print" + "personalized wall art" — these are high-intent buyer tags. For Woodland Whimsy, lead with "Woodland Wall Art" + "Deer Print" — low competition, rising demand, act before category gets crowded.
+
+---
