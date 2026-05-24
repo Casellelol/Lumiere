@@ -119,6 +119,33 @@
 
 ---
 
+## [2026-05-24 12:00] — Etsy Intelligence
+
+**Trending quotes to add:**
+- "Use Today Wisely" (confirmed active April 2026 listing, clean minimalist layout, mass-appeal motivational — gap between demand and supply in Etsy search)
+- "Dreams Don't Work Unless You Do" (long-running bestseller reconfirmed in 2026, consistently high conversion as Giclee + digital download dual-format)
+- "Mood Follows Action" (February 2026 confirmed listing, minimalist typography poster format, strong office/productivity decor buyer)
+- "These Are the Days — they are magic, they are the pages of your story. Write them. Live them. Love them." (Card and Story style, inspirational lifestyle format, gallery wall narrative hook)
+- "What If..." (single-phrase reflective prompt style — self-care + meaningful gift niche, confirmed rising listing format in search results)
+- "You Can Control: Your Attitude and Your Effort" (positive decor, uplifting angle, confirmed listing format with strong tag performance)
+
+**Rising aesthetics:**
+- **Coastal Grandmother** — confirmed Pinterest 2026 dominant aesthetic; sun-bleached whites + light greys + ocean-wave imagery; soft neutrals and linen textures evoking calm and relaxation; works for bedroom, bathroom, porch decor; pairs natively with Patina Blue and Washed Linen — design for this aesthetic NOW while it's early on Etsy vs. high Pinterest signal
+- **Glamoratti / Maximalism** — Pinterest's official "Glamoratti" trend = full return to maximalism; bigger is better; statement gallery walls with eclectic mix; jewel tones, bold patterns, eye-catching singles; drives multi-print gallery wall set purchases; design language: bold + expressive + layered
+- **Woodland Fairytale** — distinct sub-aesthetic from Mystic Outlands; softer and more whimsical; deer prints + delicate fairytale motifs + storybook details; earthy greens + warm cream; Pinterest "woodland decor" searches accelerating Spring 2026; underserved on Etsy vs. demand
+- **Cosmic / Alien Core** — opalescent, futuristic, holographic aesthetics rising alongside star map trend; alien-inspired palettes + iridescent surfaces; strong Gen Z signal on Pinterest; growing alongside celestial and star map categories
+- **Afrobohemian** — fusion of African + Bohemian design influences; colorful Nigerian textiles, Ethiopian wall art, adire fabrics, handwoven basket motifs; natural fiber textures; Pinterest-confirmed 2026 trend; warm ochre + terracotta + bright accent palette; underserved on Etsy digital downloads
+
+**Top Etsy tags:** wall art, printable wall art, art print, abstract art print, minimalist wall art, gallery wall set, gallery wall printable, coastal grandmother decor, coastal wall art, boho wall art, aesthetic room decor, woodland wall art, woodland fairytale print, deer print art, glamoratti wall art, maximalist gallery wall, cosmic wall art, alien core print, afrobohemian wall art, motivational quote print, instant download, digital download, quote print, botanical art print, nursery wall art
+
+**Price intelligence:** abstract art prints highest volume at $10–$35 (90,000+ monthly searches); minimalist quote prints fastest-converting at $5–$18 (50,000+ monthly searches); botanical prints $8–$25 (40,000+ monthly searches); nursery multi-print sets highest AOV; gallery wall sets 3–5 prints $12–$28; impulse-buy sweet spot $8–$14; overall printable wall art 400,000+ monthly searches with 90–95% profit margins; Coastal Grandmother / Quiet Luxury singles pricing well at $7–$14; Glamoratti/maximalist statement singles $10–$22
+
+**Actionable for Design Generator:** (1) Coastal Grandmother quote print: "Use Today Wisely" in sun-bleached white + Patina Blue palette, washed linen texture background, clean refined serif — targets the #1 Pinterest aesthetic of 2026 while Etsy supply is still low. (2) Glamoratti statement gallery set (5 prints): bold jewel-tone maximalist palette (emerald + gold + deep fuchsia), eclectic mix of quote + abstract + botanical motifs in coordinating colorway — positions for the full-maximalism revival. (3) Woodland Fairytale series: delicate deer silhouette + storybook hand-lettered quote ("These Are the Days — they are magic") in earthy green + warm cream — early-mover gap vs. accelerating Pinterest demand. (4) "What If..." reflective minimal print: single phrase in refined italic serif on warm linen background — targets self-care + meaningful gift buyer at $7–$12 impulse price. (5) Afrobohemian abstract print set (3 prints): Nigerian textile pattern motifs + warm ochre/terracotta/bright accent palette — 2026 Pinterest-confirmed, zero competition on Etsy digital downloads.
+
+**Actionable for Etsy Lister:** Use 3-tier Etsy SEO tag strategy: Tags 1–3 = long-tail 4-6 word phrases (e.g., "minimalist coastal grandmother quote print"); Tags 4–7 = medium specificity 3-4 words (e.g., "coastal wall art"); Tags 8–11 = broad 2-3 word anchors (e.g., "wall art", "quote print"); Tags 12–13 = room/color specificity (e.g., "bedroom decor", "blue wall art"). Title anchors to always include: "Printable Wall Art" (180K/mo) + "Digital Download" + "Instant" — then add aesthetic label. Add "coastal grandmother decor" + "aesthetic room decor" to all neutrals/coastal listings — rising search terms not yet over-competed. For Glamoratti/maximalist, lead title: "Maximalist Gallery Wall Set [N] Prints Eclectic Printable Wall Art Digital Download Instant". For Woodland Fairytale: "Woodland Wall Art Deer Print Fairytale Decor Digital Download Instant" — low competition window closing soon.
+
+---
+
 ## [2026-05-23 04:00] — Etsy Intelligence
 
 **Trending quotes to add:**
