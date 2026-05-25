@@ -146,6 +146,31 @@
 
 ---
 
+## [2026-05-25 04:00] — Etsy Intelligence
+
+**Trending quotes to add:**
+- "Breathe" / "Stay Wild" / "Find Balance" (nature + typography crossover — sunrise/sage/forest imagery with single-word overlay; targets young outdoor-lifestyle buyer; confirmed 2026 growth signal; strong impulse conversion at $5–$9)
+- "Make Ordinary Life Feel Extraordinary" (Etsy's own Summer 2026 language; playful maximalist treatment, polka-dot or circus palette; direct hook into the Summer 2026 mood buyers are in)
+- "Eternal Thirst" / "Born in the Dark" (dark romance Gothic poetry fragment style — confirmed breakout Gothic print format, Feb–May 2026 new listings gaining traction; moody oil-painting treatment, crimson + deep burgundy + black)
+- "Into the Enchanted" (Mystic Outlands / Gothic fantasy — enchanted forest, crumbling ruins angle; mossy green + stony grey; gap in literary-dark niche)
+- "Sustainable by Nature" / "Leave It Wilder" (eco-conscious wall art theme — Pinterest sustainability wave now crossing into home decor; natural dye palette + earthy textures; underserved printable niche)
+
+**Rising aesthetics:**
+- **Gothic / Dark Romance / Vampire Core** — NEW confirmed Etsy breakout as of Spring 2026; Pinterest vampire aesthetic searches surging; multiple new Etsy listings Feb–May 2026 (baroque vampire portraits, gothic castle scenes, dark romance oil-painting style, dark academia bundles); 400+ piece dark-and-gloomy bundle format performing well; tags: "dark academia decor", "dark romance art", "gothic wall art", "moody wall art", "vampire print", "baroque art print"; palette: deep burgundy, midnight black, blood red, aged ivory; buyers are also dorm/alt-aesthetic Gen Z + dark-academia Millennial crossover
+- **Polka Dot / Play Haus Maximalism** — Etsy explicitly called out "polka dot everything" as a Summer 2026 breakout; candy-spot patterns, joyful retro kitsch, makes "ordinary life feel extraordinary"; low current competition as a printable tag; pairs with Play Haus circus palette already tracked
+- **Eco / Sustainable Art** — Pinterest and Etsy both signalling eco-conscious home decor growth in 2026; designs using natural-dye colour palettes, recycled-material textures, nature-first imagery; "sustainable wall art" and "eco art print" emerging as new tags; appeals to values-led buyer who skews higher AOV
+- **Large-Format Statement Piece** — confirmed as a distinct category: single oversized design (18×24, 24×36) intended as room focal point above sofa/bed; "above sofa art" and "oversized art print" as dedicated tags gaining traction; biophilic, abstract, and moody gothic all performing in this format; commands premium $15–$35
+
+**Top Etsy tags:** gothic wall art, dark academia decor, dark romance art, vampire print, moody wall art, baroque art print, dark cottagecore print, gothic art bundle, nature typography print, stay wild print, breathe wall art, find balance print, polka dot wall art, play haus decor, sustainable wall art, eco art print, large format wall art, above sofa art, oversized art print, AI art print, instant download art, printable wall art
+
+**Price intelligence:** Gothic/dark singles $8–$25 (physical + digital dual-format listings outperforming digital-only); dark academia bundle packs (5–10 prints) highest AOV in the dark-aesthetic niche at $14–$28; large-format statement singles (18×24+) commanding $15–$35 premium; eco/nature typography singles $6–$12; polka dot gallery sets $10–$20; overall printable wall art reconfirmed 400,000+ monthly searches, 90–95% margins; Summer 2026 peak buying window active NOW through mid-July
+
+**Actionable for Design Generator:** (1) Dark Romance / Gothic single: baroque-style dark portrait (vampire woman or enchanted figure), crimson + burgundy + aged-ivory palette, oil-painting texture overlay — sized 8×10 and 18×24 for both impulse and statement formats; also build a 5-print "Dark Academia Bundle" to capture high AOV bundle buyers. (2) Nature + Typography single: soft sunrise gradient (orange/pink/purple), single bold word "Breathe" or "Stay Wild" in refined sans-serif centered over landscape silhouette — $5–$9 impulse price, strong with young outdoor-lifestyle buyers. (3) "Make Ordinary Life Feel Extraordinary" polka-dot quote print: bold candy-spot pattern background, playful rounded font, warm retro palette (candy yellow + coral + sky blue) — direct hook into Etsy's own Summer 2026 framing. (4) Eco-Conscious print: muted natural-dye palette (sage + raw linen + warm umber), "Leave It Wilder" or "Sustainable by Nature" in hand-lettered feel, botanical texture — fills underserved printable niche with values-led buyer. (5) Large-format biophilic OR gothic statement: create at least one 18×24 / 24×36 oversized variant for an existing strong design (abstract biophilic OR gothic castle) — "above sofa art" searches are growing and the format commands a $15–$35 premium.
+
+**Actionable for Etsy Lister:** Add "gothic wall art" + "dark academia decor" + "moody wall art" to any dark, moody, or edgy existing designs immediately — this is a breakout tag cluster with rising demand and low current competition. For bundle listings (5+ prints), add "gothic art bundle" + "dark academia bundle" to the title; bundle format is the #1 AOV driver in this niche. Add "above sofa art" + "oversized art print" + "large format wall art" to any design offered at 18×24 or larger — these are dedicated search terms with growing volume. Tag eco/nature designs with "sustainable wall art" + "eco art print" — new niche, zero over-competition yet. For polka-dot or circus-palette prints, add "polka dot wall art" + "play haus decor" — Etsy explicitly named polka dot as a Summer 2026 breakout; early-mover window open NOW.
+
+---
+
 ## [2026-05-23 04:00] — Etsy Intelligence
 
 **Trending quotes to add:**
