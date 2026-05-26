@@ -171,6 +171,35 @@
 
 ---
 
+## [2026-05-26 12:00] — Etsy Intelligence
+
+**Trending quotes to add:**
+- "Rise and Shine" (confirmed active live listing, horizontal minimalist layout, bold modern sans-serif, mass-appeal motivational — gap between demand and supply confirmed in search; strong office + bedroom crossover)
+- "And So the Adventure Begins" (summer/travel launch moment; extremely high search conversion in May–June window; pairs with travel map prints for upsell)
+- "Wander Often, Wonder Always" (travel-exploration niche; pairs with map print format for dual-product listing strategy)
+- "Collect Moments, Not Things" (lifestyle minimalism + travel/adventure buyer; high impulse conversion at $6–$10; works as standalone or map print caption)
+- "Every Room Tells A Story" (direct hook into Etsy's "Everyday Exhibits" macro trend; targets gallery wall builder buying intent; gallery-wall coordinating set anchor)
+- "Come Home to Yourself" (Quiet Luxury / self-care crossover; washed linen background ideal; bedroom + reading nook decor buyer)
+- "Make A Difference" (Jane Goodall attribution angle; literary + activism crossover; high review counts on active listings; author-name search intent)
+- "What If I Told You Ordinary Days Are the Point" (new reflective lifestyle format surfacing in 2026 listings; self-care + slow living angle; Quiet Luxury treatment)
+
+**Rising aesthetics:**
+- **Everyday Exhibits / Gallery Wall Collector** — Etsy's own macro trend name for 2026; wall art decor searches +110% YoY, gallery prints +80% YoY; buyers curating gallery walls as personal storytelling mixing nostalgia + pop culture + statement pieces; drives coordinating 3–5 print set purchases over singles; design in cohesive palette sets, not isolated prints
+- **Whimsy** — Pinterest "whimsy" searches +20% MoM, "whimsy room" +68% in the past quarter; soft dreamy pastels, playful fantastical motifs, hand-lettered feel; strongest in bedroom + nursery crossover; distinct from maximalist — more gentle and dreamlike; early-mover Etsy supply gap vs. surging demand
+- **Alien Core / Cosmic Futurism** — alien aesthetic searches +80% on Pinterest 2026; holographic, opalescent, iridescent surfaces; moon-inspired palettes (silver, glacial white, pale violet, metallic sheen); strong Gen Z signal; growing alongside star map and celestial categories; Etsy supply thin vs. Pinterest demand surge
+- **Mystic Outlands** — evolved Castlecore; enchanted forests, crumbling ruins, misty plains; earth tones: mossy green, stony grey, warm umber; appeals to fantasy + nature buyers; distinct from Gothic/Dark Romance (less vampire, more wilderness enchantment); underserved in printable digital format
+- **Pen Pal / Handmade Collage** — DIY handmade scrapbook-style collage visuals; cut-and-paste aesthetic; predicted letter-writing renaissance; suits typography and mixed-media quote posters; emerging Pinterest trend with low Etsy supply; pairs with "imperfect hand-drawn" aesthetic already tracked
+
+**Top Etsy tags:** printable wall art, digital download instant, gallery wall set, gallery wall printable, everyday exhibits art, abstract art print, minimalist quote print, botanical wall art, whimsy wall art, whimsy room decor, alien core print, cosmic wall art, holographic art print, mystic outlands print, enchanted forest art, collage wall art, pen pal aesthetic print, motivational quote print, travel wall art, wander print, instant download art
+
+**Price intelligence:** abstract art prints highest volume at $10–$35 (90,000+ monthly searches); minimalist quote prints fastest-converting impulse buy at $5–$18 (50,000+ monthly searches); botanical prints $8–$25 (40,000+ monthly searches); gallery wall sets (3–5 prints) generate highest AOV at $12–$28; overall printable wall art 400,000+ monthly searches, 90–95% profit margins; Whimsy bedroom singles sweet-spot $6–$12; Alien Core singles $8–$18; Cosmic/celestial personalized formats $12–$30; Mystic Outlands earth-tone sets of 3 $10–$20; Summer 2026 peak buying window ACTIVE NOW through mid-July
+
+**Actionable for Design Generator:** (1) Create a 5-print "Everyday Exhibits" coordinating gallery wall set: mix botanical + quote ("Every Room Tells A Story") + abstract in unified Patina Blue + warm cream palette — targets the +110% gallery print search surge with one multi-product listing. (2) Whimsy bedroom series: 3-print set in soft dreamy pastels (blush + lavender + sky blue), playful fantastical motifs (clouds, moons, stars), hand-lettered feel, "Come Home to Yourself" + "Rise and Shine" quotes — early-mover gap vs. +68% Pinterest demand. (3) Alien Core / Cosmic statement single: holographic-textured background in pale silver + pale violet + glacial white, single centered minimal quote ("Made of Stardust", "Moon Child") in iridescent metallic font — 18×24 format for statement piece, targets Gen Z buyer at $10–$18. (4) Mystic Outlands triptych: enchanted forest silhouette in mossy green + stony grey, misty atmospheric treatment, "Into the Enchanted" or "Wander Often, Wonder Always" caption — 3-print horizontal set for above-sofa placement. (5) Pen Pal / Collage quote poster: mixed-media scrapbook layout, handwritten + typewriter + stamp fonts, "Collect Moments, Not Things" or travel theme — fills emerging niche with zero current Etsy printable competition.
+
+**Actionable for Etsy Lister:** Lead ALL multi-print set titles with "Gallery Wall Set [N] Prints" — "gallery wall set" is +80% YoY search and must appear in title, not just tags; fill all 13 tags for set listings. Add "whimsy wall art" + "whimsy room decor" to any dreamy/soft/pastel designs NOW — the +68% search surge is not yet reflected in tag competition. Tag cosmic/celestial listings with "alien core print" + "cosmic wall art" + "holographic art print" — rising fast with low Etsy competition. For Mystic Outlands / enchanted forest designs add "mystic outlands print" + "enchanted forest art" — niche is growing but supply-starved. Anchor every listing title with "Printable Wall Art" + "Digital Download Instant" (combined 400k+/mo search volume). Summer buying window ACTIVE: add "summer wall art" to all listings through mid-July.
+
+---
+
 ## [2026-05-23 04:00] — Etsy Intelligence
 
 **Trending quotes to add:**
